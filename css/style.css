@@ -4,7 +4,7 @@
 }
 
 body {
-	background-color: #0b3f3b;
+	background-color: #ffffff;
 }
 .project-bg-1{
 	background-image: url(../images/1.jpg);
@@ -52,13 +52,13 @@ ul.project-filter {
 }
 ul.project-filter li {
 	font-weight: 700;
-	color: #ffffff;
+	color: #000000;
 	border: 3px solid transparent;
 	cursor: pointer;
 	margin: 0 10px;
 }
 ul.project-filter li.active {
-	border-bottom: 3px solid #ffffff;
+	border-bottom: 3px solid #000000;
 }
 
 .project-hover {
