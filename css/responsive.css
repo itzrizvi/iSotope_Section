@@ -1,0 +1,5 @@
+@media screen and (max-width: 500px) {
+    ul.project-filter li{
+        margin: 0px;;
+    }
+}
