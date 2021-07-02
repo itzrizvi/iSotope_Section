@@ -53,12 +53,12 @@ ul.project-filter {
 ul.project-filter li {
 	font-weight: 700;
 	color: #000000;
-	border: 3px solid transparent;
+	border: 2px solid transparent;
 	cursor: pointer;
 	margin: 0 10px;
 }
 ul.project-filter li.active {
-	border-bottom: 3px solid #000000;
+	border-bottom: 2px solid #000000;
 }
 
 .project-hover {
